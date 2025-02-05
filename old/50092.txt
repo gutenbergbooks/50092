@@ -1,4 +1,39 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 50092 ***
+The Project Gutenberg EBook of Illustrated Edition of the Life and Escape
+of Wm. Wells Brown from American Slavery, by William Wells Brown
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Illustrated Edition of the Life and Escape of Wm. Wells Brown from American Slavery
+       Written by Himself
+
+Author: William Wells Brown
+
+Release Date: September 30, 2015 [EBook #50092]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LIFE AND ESCAPE ***
+
+
+
+
+Produced by David Widger from page images generously
+provided by the Internet Archive
+
+
+
+
+
+
 
 ILLUSTRATED EDITION OF THE LIFE AND ESCAPE OF WM. WELLS BROWN FROM
 AMERICAN SLAVERY
@@ -99,21 +134,21 @@ defenceless--be with you, to guide, strengthen, aid, and bless you
 abundantly! Three millions of slaves are your constituents, and you are
 their legitimate and faithful representative. With a mother, sister, and
 three brothers, yet pining in hopeless servitude, with the marks of the
-slavedriver’s lash upon your body, you cannot but “remember them that
-are in bonds as bound with them.” Speak in trumpet tones to Europe, and
-call upon the friends of “liberty, equality, and fraternity” there, to
-cry, “Shame upon recreant and apostate America, which flourishes the
+slavedriver's lash upon your body, you cannot but "remember them that
+are in bonds as bound with them." Speak in trumpet tones to Europe, and
+call upon the friends of "liberty, equality, and fraternity" there, to
+cry, "Shame upon recreant and apostate America, which flourishes the
 Declaration of Independence in one hand, and the whip of the negro
-overseer in the other!” Challenge all that is free, all that is humane,
+overseer in the other!" Challenge all that is free, all that is humane,
 all that is pious, across the Atlantic, to raise a united testimony
 against American slaveholders and their abettors, as the enemies of God
 and the human race! So shall that cry and that testimony cause the knees
 of the oppressor to smite together, the Bastile of slavery to tremble
 to its foundation, and the hearts of the American Abolitionists to be
 filled with joy and inspired afresh! Tell Europe that our watchword is,
-“Immediate--unconditional emancipation for the slave,” and the motto we
-have placed on our anti-slavery banner is, “No Union with Slaveholders,
-religiously or politically!”
+"Immediate--unconditional emancipation for the slave," and the motto we
+have placed on our anti-slavery banner is, "No Union with Slaveholders,
+religiously or politically!"
 
 You have secured the respect, confidence, and esteem of thousands of the
 best portion of the American people; and may you continue faithful to
@@ -140,7 +175,7 @@ the friends of humanity.
 
 From the Annual Report of the Massachusetts Anti-Slavery Society,
 adopted at their meeting held in Boston, U.S., on the 26th of January,
-1851:--“We have again to express our acknowledgment to the untiring
+1851:--"We have again to express our acknowledgment to the untiring
 anti-slavery men and women of Great Britain for their continued
 sympathy, encouragement, and assistance, which we have been happy to
 acknowledge in former years. The kindness with which Wm. Wells Brown was
@@ -149,7 +184,7 @@ notice, with pleasure, meetings held for him, and attended by him,
 in various parts of the United Kingdom, which appear to have had
 an excellent effect in arousing and keeping alive the anti-slavery
 sentiments of the British people; of these sentiments we have received
-substantial results in the contributions which enrich the Annual Bazaar.”
+substantial results in the contributions which enrich the Annual Bazaar."
 
 FRANCIS JACKSON, President
 
@@ -192,7 +227,7 @@ personal intercourse between the British people and American slaveowners
 is now very great; and the slaveholder, crafty and politic, as
 deliberate tyrants generally are, rarely leaves the shores of Europe
 without attempting at least to assuage the prevalent hostility against
-his beloved “peculiar institution.” The influence of the Southern States
+his beloved "peculiar institution." The influence of the Southern States
 of America is mainly directed to the maintenance and propagation of the
 system of slavery in their own and in other countries. In the pursuit
 of tins object, every consideration of religion, liberty, national
@@ -207,7 +242,7 @@ must be either succumbed to or put down.
 
 In putting forth the eighth edition of this little book, I cannot but
 express a surprise that a work written hastily, and that too by one who
-never had a day’s schooling, should have met with so extensive a sale.
+never had a day's schooling, should have met with so extensive a sale.
 
 In committing my narrative once more to the public, I cannot do so
 without returning my heartfelt thanks to the gentlemen connected with
@@ -269,20 +304,20 @@ ordered him to cross his hands and be tied. Randall asked why he wished
 to whip him. He answered, because he had not finished his task the day
 before. Randall said that the task was too great, or he should have done
 it. Cook said it made no difference--he should whip him. Randall stood
-silent for a moment, and then said, “Mr. Cook, I have always tried to
+silent for a moment, and then said, "Mr. Cook, I have always tried to
 please you since you have been on the plantation, and I find you are
 determined not to be satisfied with my work, let me do as well as I may.
 No man has laid hands on me, to whip me, for the last ten years, and
 I have long since come to the conclusion not to be whipped by any man
-living.” Cook, finding by Randall’s determined look and gestures,
+living." Cook, finding by Randall's determined look and gestures,
 that he would resist, called three of the hands from their work,
 and commanded them to seize Randall, and tie him. The hands stood
 still;--they knew Randall--and they also knew him to be a powerful man,
 and were afraid to grapple with him. As soon as Cook had ordered the men
-to seize him, Randall turned to them, and said--“Boys, you all know me;
+to seize him, Randall turned to them, and said--"Boys, you all know me;
 you know that I can handle any three of you, and the man that lays hands
-on me shall die. This white man can’t whip me himself, and therefore
-he has called you to help him.” The overseer was unable to prevail upon
+on me shall die. This white man can't whip me himself, and therefore
+he has called you to help him." The overseer was unable to prevail upon
 them to seize and secure Randall, and finally ordered them all to go to
 their work together.
 
@@ -299,7 +334,7 @@ their clubs, and beat him over the head and face, until they succeeded
 in tying him. He was then taken to the barn, and tied to a beam. Cook
 gave him over one hundred lashes with a heavy cowhide, had him washed.
 with salt and water, and left him tied during the day. The next day he
-was untied, and taken to a blacksmith’s shop, and had a ball and chain
+was untied, and taken to a blacksmith's shop, and had a ball and chain
 attached to his leg. He was compelled to labor in the field, and perform
 the same amount of work that the other hands did. When his master
 returned home, he was much pleased to find that Randall had been subdued
@@ -325,18 +360,18 @@ of anger, he would take up a chair, and throw it at a servant; and in
 his more rational moments, when he wished to chastise one, he would tie
 them up in the smoke-house, and whip them; after which, he would cause
 a fire to be made of tobacco stems, and smoke them. This he called
-“Virginia play.”
+"Virginia play."
 
 I complained to my master of the treatment which I received from Major
 Freeland; but it made no difference. He cared nothing about it, so long
 as he received the money for my labor. After living with Major Freeland
 five or six months, I ran away, and went into the woods back of the
-city; and when night came on, I made my way to my master’s farm, but
+city; and when night came on, I made my way to my master's farm, but
 was afraid to be seen, knowing that if Mr. Haskell, the overseer, should
 discover me, I should be again carried back to Major Freeland; so I
 kept in the woods. One day while in the woods, I heard the barking and
 howling of dogs, and in a short time they came so near that I knew them
-to be the bloodhounds of Major Benjamin O’Fallon. He kept five or six,
+to be the bloodhounds of Major Benjamin O'Fallon. He kept five or six,
 to hunt runaway slaves with.
 
 As soon as I was convinced that it was them, I knew there was no chance
@@ -356,7 +391,7 @@ told me, was the way his father used to do to his slaves in Virginia.
 After giving me what they conceived to be a decent smoking, I was untied
 and again set to work.
 
-Robert Freeland was a “chip of the old block.” Though quite young, it
+Robert Freeland was a "chip of the old block." Though quite young, it
 was not unfrequently that he came home in a state of intoxication. He
 is now, I believe, a popular commander of a steamboat on the Mississippi
 river. Major Freeland soon after failed in business, and I was put on
@@ -366,7 +401,7 @@ during the sailing season, which was the most pleasant time for me that
 I had ever experienced. At the close of navigation I was hired to Mr.
 John Colburn, keeper of the Missouri Hotel. He was from one of the free
 states; but a more inveterate hater of the negro I do not believe ever
-walked God’s green earth. This hotel was at that time one of the largest
+walked God's green earth. This hotel was at that time one of the largest
 in the city, and there were employed in it twenty or thirty servants,
 mostly slaves.
 
@@ -384,7 +419,7 @@ untied he went home to his master, and complained of the treatment which
 he had received. Mr. Darby would give no heed to anything he had to say,
 but sent him directly back. Colburn, learning that he had been to his
 master with complaints, tied him up again, and gave him a more severe
-whipping than before. The poor fellow’s back was literally cut to
+whipping than before. The poor fellow's back was literally cut to
 pieces; so much so, that he was not able to work for ten or twelve days.
 
 There was, also, among the servants, a girl whose master resided in the
@@ -418,9 +453,9 @@ which an American slave occupies.
 
 CHAPTER III.
 
-I was soon after taken from Mr. Colburn’s, and hired to Elijah P.
-Lovejoy, who was at that time publisher and editor of the “St. Louis
-Times.” My work, while with him, was mainly in the printing office,
+I was soon after taken from Mr. Colburn's, and hired to Elijah P.
+Lovejoy, who was at that time publisher and editor of the "St. Louis
+Times." My work, while with him, was mainly in the printing office,
 waiting on the hands, working the press, &c. Mr. Lovejoy was a very good
 man, and decidedly the best master that I had ever had. I am chiefly
 indebted to him, and to my employment in the printing office, for what
@@ -444,23 +479,23 @@ driving his master through the city--the streets being very muddy, and
 the horses going at a rapid rate--some mud spattered upon a gentleman by
 the name of Robert More. More was determined to be revenged. Some three
 or four months after this occurrence, he purchased John, for the express
-purpose, as he said, “to tame the d------d nigger.”
+purpose, as he said, "to tame the d------d nigger."
 
-After the purchase he took him to a blacksmith’s shop, and had a ball
+After the purchase he took him to a blacksmith's shop, and had a ball
 and chain fastened to his leg, and then put him to driving a yoke of
 oxen, and kept him at hard labor, until the iron around his leg was so
 worn into the flesh, that it was thought mortification would ensue. In
 addition to this, John told me that his master whipped him regularly
-three times a week for the first two months:--and all this to “_tame
-him_” more noblelooking man than he was not to be found in all St.
+three times a week for the first two months:--and all this to "_tame
+him_" more noblelooking man than he was not to be found in all St.
 Louis, before he fell into the hands of More; and a more degraded and
 spirit-crushed looking being was never seen on a southern plantation,
-after he had been subjected to this “_taming_” process for three months.
+after he had been subjected to this "_taming_" process for three months.
 The last time that I saw him, he had nearly lost the entire use of his
 limbs.
 
 While living with Mr. Lovejoy, I was often sent on errands to the office
-of the “Missouri Republican,” published by Mr. Edward Charless. Once,
+of the "Missouri Republican," published by Mr. Edward Charless. Once,
 while returning to the office with type, I was attacked by several large
 boys, sons of slave-holders, who pelted me with snow-balls. Having the
 heavy form of type in my hands, I could not make my escape by running;
@@ -523,29 +558,29 @@ first, and sister next. One evening, while visiting them, I made some
 allusion to a proposed journey to Canada, and sister took her seat by my
 side, and taking my hand in hers, said, with tears in her eyes--
 
-“Brother, you are not going to leave mother and your dear sister here
-without a friend, are you?”
+"Brother, you are not going to leave mother and your dear sister here
+without a friend, are you?"
 
 I looked into her face, as the tears coursed swiftly down her cheeks,
 and bursting into tears myself, said--
 
-“No, I will never desert you and mother!”
+"No, I will never desert you and mother!"
 
 She clasped my hand in hers, and said--
 
-“Brother, you have often declared that you would not end your days in
+"Brother, you have often declared that you would not end your days in
 slavery. I see no possible way in which you can escape with us; and now,
 brother, you are on a steamboat where there is some chance for you to
 escape to a land of liberty. I beseech you not to let us hinder you. If
 we cannot get our liberty, we do not wish to be the means of keeping you
-from a land of freedom.”
+from a land of freedom."
 
 I could restrain my feelings no longer, and an outburst of my own
 feelings caused her to cease speaking upon that subject. In opposition
 to their wishes, I pledged myself not to leave them in the hand of the
 oppressor. I took leave of them, and returned to the boat, and laid down
-in my bunk; but “sleep departed from mine eyes, and slumber from mine
-eyelids.”
+in my bunk; but "sleep departed from mine eyes, and slumber from mine
+eyelids."
 
 A few weeks after, on our downward passage, the boat took on board,
 at Hannibal, a drove of slaves, bound for the New Orleans market. They
@@ -587,7 +622,7 @@ that in a corn-field.
 My master, who was then living in the city, soon after removed to
 the farm, when I was taken out of the field to work in the house as a
 waiter. Though his wife was very peevish, and hard to please, I much
-preferred to be under her control than the overseer’s. They brought with
+preferred to be under her control than the overseer's. They brought with
 them Mr. Sloane, a Presbyterian minister; Miss Martha Tulley, a niece of
 theirs from Kentucky; and their nephew William. The latter had been in
 the family a number of years, but the others were all newcomers.
@@ -599,7 +634,7 @@ during the winter, and he not only tried to please them, but I think he
 succeeded admirably. When they wanted singing, he sung; when they wanted
 praying, he prayed; when they wanted a story told, he told a story.
 Instead of his teaching my master theology, my master taught theology to
-him. While I was with Captain Reynolds my master “got religion,” and
+him. While I was with Captain Reynolds my master "got religion," and
 new laws were made on the plantation. Formerly we had the privilege of
 hunting, fishing, making splint brooms, baskets, &c., on Sunday; but
 this was all stopped. Every Sunday we were all compelled to attend
@@ -627,7 +662,7 @@ accidentally let the pitcher fall upon the floor, breaking it in pieces,
 and spilling the contents. This was a bad affair for me; for as soon as
 prayer was over, I was taken and severely chastised.
 
-My master’s family consisted of himself, his wife, and their nephew,
+My master's family consisted of himself, his wife, and their nephew,
 William Moore. He was taken into the family when only a few weeks of
 age. His name being that of my own, mine was changed for the purpose
 of giving precedence to his, though I was his senior by ten or twelve
@@ -659,7 +694,7 @@ he determined to have me for that purpose; and finding that my master
 would not sell me, he hired me for the term of one year.
 
 When I learned the fact of my having been hired to a negro speculator,
-or a “soul driver,” as they are generally called among slaves, no one
+or a "soul driver," as they are generally called among slaves, no one
 can tell my emotions. Mr. Walker had offered a high price for me, as I
 afterwards learned, but I suppose my master was restrained from selling
 me by the fact that I was a near relative of his. On entering the
@@ -711,7 +746,7 @@ On our arrival at St. Louis I went to Dr. Young, and told him that
 I did not wish to live with Mr. Walker any longer. I was heartsick at
 seeing my fellow-creatures bought and sold. But the Dr. had hired me for
 the year, and stay I must. Mr. Walker again commenced purchasing another
-gang of slaves. He bought a man of Colonel John O’Fallon, who resided in
+gang of slaves. He bought a man of Colonel John O'Fallon, who resided in
 the suburbs of the city. This man had a wife and three children. As soon
 as the purchase was made, he was put in jail for safe keeping, until
 we should be ready to start for New Orleans. His wife visited him while
@@ -723,7 +758,7 @@ flesh made up. There was in this lot a number of old men and women, some
 of them with gray locks. We left St. Louis in the steamboat Carlton,
 Captain Swan, bound for New Orleans. On our way down, and before we
 reached Rodney, the place where we made our first stop, I had to prepare
-the old slaves for market. I was ordered to have the old men’s whiskers
+the old slaves for market. I was ordered to have the old men's whiskers
 shaved off, and the grey hairs plucked out where they were not too
 numerous, in which case he had a preparation of blacking to color it,
 and with a blacking brush we would put it on. This was new business to
@@ -746,20 +781,20 @@ places where he offered his slaves for sale.
 
 When at Natchez the second time, I saw a slave very cruelly whipped. He
 belonged to a Mr. Broadwell, a merchant who kept a store on the wharf.
-The slave’s name was Lewis. I had known him several years, as he was
+The slave's name was Lewis. I had known him several years, as he was
 formerly from St. Louis. We were expecting a steamboat down the river,
 in which we were to take passage for New Orleans. Mr. Walker sent me
 to the landing to watch for the boat, ordering me to inform him on its
 arrival. While there I went into the store to see Lewis. I saw a slave
-in the store, and asked him where Lewis was. Said he, “They have got
-Lewis hanging between the heavens and the earth.” I asked him what he
+in the store, and asked him where Lewis was. Said he, "They have got
+Lewis hanging between the heavens and the earth." I asked him what he
 meant by that. He told me to go into the warehouse and see. I went in,
 and found Lewis there. He was tied up to a beam, with his toes just
 touching the floor. As there was no one in the warehouse but himself,
 I inquired the reason of his being in that situation. He said Mr.
 Broadwell had sold his wife to a planter six miles from the city, and
 that he had been to visit her--that he went in the night, expecting to
-return before daylight, and went without his master’s permission. The
+return before daylight, and went without his master's permission. The
 patrol had taken him up before he reached his wife. He was put in jail,
 and his master had to pay for his catching and keeping, and that was
 what he was tied up for.
@@ -838,7 +873,7 @@ road was worse than any that I have ever travelled.
 
 Soon after we left St. Charles the young child grew very cross, and kept
 up a noise during the greater part of the day. Mr. Walker complained
-of its crying several times, and told the mother to stop the child’s
+of its crying several times, and told the mother to stop the child's
 d------d noise, or he would. The woman tried to keep the child from
 crying, but could not. We put up at night with an acquaintance of Mr.
 Walker, and in the morning, just as we were about to start, the child
@@ -847,16 +882,16 @@ the child to him. The mother tremblingly obeyed. He took the child by
 one arm, as you would a cat by the leg, walked into the house, and said
 to the lady,
 
-“Madam, I will make you a present of this little nigger; it keeps such a
-noise that I can’t bear it.”
+"Madam, I will make you a present of this little nigger; it keeps such a
+noise that I can't bear it."
 
-“Thank you, sir,” said the lady.
+"Thank you, sir," said the lady.
 
 The mother, as soon as she saw that her child was to be left, ran up to
 Mr. Walker, and falling upon her knees, begged him to let her have her
-child; she clung around his legs, and cried, “Oh, my child! my child!
+child; she clung around his legs, and cried, "Oh, my child! my child!
 master, do let me have my child! oh, do, do, do! I will stop its crying
-if you will only let me have it again.” When I saw this woman crying
+if you will only let me have it again." When I saw this woman crying
 for her child so piteously, a shudder--a feeling akin to horror--shot
 through my frame. I have often since in imagination heard her crying for
 her child:--
@@ -876,7 +911,7 @@ are engaged in the traffic in slaves in this country, who occupy high
 positions in society, and hold offices of honor in the councils of the
 nation; and not a few have made their fortunes by this business.
 
-After the woman’s child had been given away, Mr. Walker commanded her to
+After the woman's child had been given away, Mr. Walker commanded her to
 return into the ranks with the other slaves. Women who had children
 were not chained, but those that had none were. As soon as her child was
 disposed of she was chained in the gang.
@@ -884,7 +919,7 @@ disposed of she was chained in the gang.
 The following song I have often heard the slaves sing, when about to be
 carried to the far south. It is said to have been composed by a slave.
 
-                   “See these poor souls from Africa
+                   "See these poor souls from Africa
 
                    Transported to America;
 
@@ -898,13 +933,13 @@ carried to the far south. It is said to have been composed by a slave.
 
                    See wives and husbands sold apart,
 
-                   Their children’s screams will break my heart;--
+                   Their children's screams will break my heart;--
 
-                   There’s a better day a coming--
+                   There's a better day a coming--
 
                    Will you go along with me?
 
-                   There’s a better day a coming,
+                   There's a better day a coming,
 
                    Go sound the jubilee!
 
@@ -920,19 +955,19 @@ carried to the far south. It is said to have been composed by a slave.
 
                    Go sound the jubilee!
 
-                   Dear Lord, dear Lord, when slavery ‘ll cease,
+                   Dear Lord, dear Lord, when slavery 'll cease,
 
                    Then we poor souls will have our peace;--
 
-                   There’s a better day a coming--
+                   There's a better day a coming--
 
                    Will you go along with me?
 
-                   There’s a better day a coming,
+                   There's a better day a coming,
 
-                   Go sound the jubilee!”
+                   Go sound the jubilee!"
 
-We finally arrived at Mr. Walker’s farm. He had a house built during
+We finally arrived at Mr. Walker's farm. He had a house built during
 our absence to put slaves in. It was a kind of domestic jail. The slaves
 were put in the jail at night, and worked on the farm during the day.
 They were kept here until the gang was completed, when we again started
@@ -962,12 +997,12 @@ landing, where I met with a sailor, and, walking up to him, asked him
 if he would be so kind as to read the note for me. He read it over, and
 then looked at me. I asked him to tell me what was in it. Said he,
 
-“They are going to give you hell.”
+"They are going to give you hell."
 
-“Wy?” said I.
+"Wy?" said I.
 
-He said, “This is a note to have you whipped, and says that you have a
-dollar to pay for it.”
+He said, "This is a note to have you whipped, and says that you have a
+dollar to pay for it."
 
 He handed me back the note, and off I started. I knew not what to do,
 but was determined not to be whipped. I went up to the jail--took a
@@ -988,18 +1023,18 @@ I watched to see that he went in, and as soon as I saw the door close
 behind him, I walked around the corner, and took my station, intending
 to see how my friend looked when he came out. I had been there but
 a short time, when a colored man came around the corner, and said to
-another colored man with whom he was acquainted--“They are giving a
-nigger scissors in the jail.”
+another colored man with whom he was acquainted--"They are giving a
+nigger scissors in the jail."
 
-“What for?” said the other. The man continued,
+"What for?" said the other. The man continued,
 
-“A nigger came into the jail, and asked for the jailer. The jailer came
+"A nigger came into the jail, and asked for the jailer. The jailer came
 out, and he handed him a note, and said he wanted to get a trunk. The
 jailer told him to go with him, and he would give him the trunk. So he
 took him into the room, and told the nigger to give up the dollar. He
 said a man had given him the dollar to pay for getting the trunk. But
 that lie would not answer. So they made him strip himself, and then they
-tied him down, and are now whipping him.”
+tied him down, and are now whipping him."
 
 I stood by all the while listening to their talk, and soon found out
 that the person alluded to was my customer. I went into the street
@@ -1012,8 +1047,8 @@ that I had played a trick upon him. I denied any knowledge of what the
 note contained, and asked him what they had done to him. He told me in
 substance what I heard the man tell who had come out of the jail.
 
-“Yes,” said he, “they whipped me and took my dollar, and gave me this
-note.”
+"Yes," said he, "they whipped me and took my dollar, and gave me this
+note."
 
 He showed me the note which the jailer had given him, telling him to
 give it to his master. I told him I would give him fifty cents for
@@ -1025,23 +1060,23 @@ Upon reaching the hotel, I handed it to a stranger whom I had not seen
 before, and requested him to read it to me. As near as I can recollect,
 it was as follows:--
 
-“Dear Sir:--By your direction, I have given your boy twenty lashes. He
+"Dear Sir:--By your direction, I have given your boy twenty lashes. He
 is a very saucy boy, and tried to make me believe that he did not belong
 to you, and I put it on to him well for lying to me.
 
-“I remain
+"I remain
 
-“Your obedient servant.”
+"Your obedient servant."
 
 It is true that in most of the slave-holding cities, when a gentleman
 wishes his servants whipped, he can send him to the jail and have it
 done. Before I went in where Mr. Walker was, I wet my cheeks a little,
 as though I had been crying. He looked at me, and inquired what was the
 matter. I told him that I had never had such a whipping in my life, and
-handed him the note. He looked at it and laughed;--“And so you told him
-that you did not belong to me?”
+handed him the note. He looked at it and laughed;--"And so you told him
+that you did not belong to me?"
 
-“Yes, sir,” said I. “I did not know that there was any harm in that.” He
+"Yes, sir," said I. "I did not know that there was any harm in that." He
 told me I must behave myself, if I did not want to be whipped again.
 
 This incident shows how it is that slavery makes its victims lying and
@@ -1062,12 +1097,12 @@ CHAPTER VI.
 In a few days we reached New Orleans, and arriving there in the night,
 remained on board until morning. While at New Orleans this time, I saw
 a slave killed; an account of which has been published by Theodore D.
-Weld, in his book entitled “Slavery as it is.” The circumstances were as
-follows. In the evening, between seven and eight o’clock, a slave came
+Weld, in his book entitled "Slavery as it is." The circumstances were as
+follows. In the evening, between seven and eight o'clock, a slave came
 running down the levee, followed by several men and boys. The whites
-were crying out, “Stop that nigger! stop that nigger!” while the poor
-panting slave, in almost breathless accents, was repeating, “I did not
-steal the meat--I did not steal the meat.” The poor man at last took
+were crying out, "Stop that nigger! stop that nigger!" while the poor
+panting slave, in almost breathless accents, was repeating, "I did not
+steal the meat--I did not steal the meat." The poor man at last took
 refuge in the river. The whites who were in pursuit of him, run on board
 of one of the boats to see if they could discover him. They finally
 espied him under the bow of the steamboat Trenton. They got a pike-pole,
@@ -1076,30 +1111,30 @@ him he would dive under the water. The water was so cold, that it soon
 became evident that he must come out or be drowned.
 
 While they were trying to drive him from under the bow of the boat or
-drown him, he would in broken and imploring accents say, “I did not
+drown him, he would in broken and imploring accents say, "I did not
 steal the meat; I did not steal the meat. My master lives up the river.
 I want to see my master. I did not steal the meat. Do let me go home
-to master.” After punching him, and striking him over the head for some
+to master." After punching him, and striking him over the head for some
 time, he at last sunk in the water, to rise no more alive.
 
 On the end of the pike-pole with which they were striking him was a
 hook, which caught in his clothing, and they hauled him up on the bow of
-the boat. Some said he was dead; others said he was “_playing possum_;”
- while others kicked him to make him get up; but it was of no use--he was
+the boat. Some said he was dead; others said he was "_playing possum_;"
+while others kicked him to make him get up; but it was of no use--he was
 dead.
 
 As soon as they became satisfied of this, they commenced leaving, one
 after another. One of the hands on the boat informed the captain that
 they had killed the man, and that the dead body was lying on the deck.
-The captain came on deck, and said to those who were remaining, “You
-have killed this nigger; now take him off of my boat.” The captain’s
+The captain came on deck, and said to those who were remaining, "You
+have killed this nigger; now take him off of my boat." The captain's
 name was Hart. The dead body was dragged on shore and left there. I went
 on board of the boat where our gang of slaves were, and during the whole
 night my mind was occupied with what I had seen. Early in the morning I
 went on shore to see if the dead body remained there. I found it in the
 same position that it was left the night before. I watched to see what
 they would do with it. It was left there until between eight and nine
-o’clock, when a cart, which takes up the trash out of the streets, came
+o'clock, when a cart, which takes up the trash out of the streets, came
 along, and the body was thrown in, and in a few minutes more was covered
 over with dirt which they were removing from the streets. During the
 whole time, I did not see more than six or seven persons around it, who,
@@ -1151,30 +1186,30 @@ thought it probable that I would prefer it to a country life. I raised
 up my head, and looked him full in the face. When my eyes caught his he
 immediately looked to the ground. After a short pause, I said,
 
-“Master, mother has often told me that you are a near relative of mine,
+"Master, mother has often told me that you are a near relative of mine,
 and I have often heard you admit the fact; and after you have hired me
 out, and received, as I once heard you say, nine hundred dollars for my
 services--after receiving this large sum, will you sell me to be carried
-to New Orleans or some other place?”
+to New Orleans or some other place?"
 
-“No,” said he, “I do not intend to sell you to a negro trader. If I
+"No," said he, "I do not intend to sell you to a negro trader. If I
 had wished to have done that, I might have sold you to Mr. Walker for a
 large sum, but I would not sell you to a negro trader. You may go to the
-city, and find you a good master.”
+city, and find you a good master."
 
-“But,” said I, “I cannot find a good master in the whole city of St.
-Louis.”
+"But," said I, "I cannot find a good master in the whole city of St.
+Louis."
 
-“Why?” said he.
+"Why?" said he.
 
-“Because there are no good masters in the state.”
+"Because there are no good masters in the state."
 
-“Do you not call me a good master?”
+"Do you not call me a good master?"
 
-“If you were you would not sell me.”
+"If you were you would not sell me."
 
-“Now I will give you one week to find a master in and surely you can do
-it in that time.”
+"Now I will give you one week to find a master in and surely you can do
+it in that time."
 
 The price set by my evangelical master upon my soul and body was
 the trifling sum of five hundred dollars. I tried to enter into some
@@ -1245,7 +1280,7 @@ day. Our reason for going into the woods was, that we expected that Mr.
 Mansfield (the man who owned my mother) would start in pursuit of her as
 soon as he discovered that she was missing. He also knew that I had been
 in the city looking for a new master, and we thought probably he would
-go out to my master’s to see if he could find my mother, and in so
+go out to my master's to see if he could find my mother, and in so
 doing, Dr. Young might be led to suspect that I had gone to Canada to
 find a purchaser.
 
@@ -1256,7 +1291,7 @@ ourselves in the woods by day; and every night, before emerging from
 our hiding-place, we would anxiously look for our friend and leader--the
 _north star_. And in the language of Pierpont we might have exclaimed,
 
-                   “Star of the North! while blazing day
+                   "Star of the North! while blazing day
 
                    Pours round me its full tide of light,
 
@@ -1282,7 +1317,7 @@ _north star_. And in the language of Pierpont we might have exclaimed,
 
                    In the dark top of southern pines
 
-                   I nestled, when the driver’s horn
+                   I nestled, when the driver's horn
 
                    Called to the field, in lengthening lines,
 
@@ -1290,13 +1325,13 @@ _north star_. And in the language of Pierpont we might have exclaimed,
 
                    And there I lay, till thy sweet face
 
-                   Looked in upon my ‘hiding place,’
+                   Looked in upon my 'hiding place,'
 
                    Star of the North!
 
                    Thy light, that no poor slave deceiveth,
 
-                   Shall set me free.”
+                   Shall set me free."
 
 I
 
@@ -1353,7 +1388,7 @@ and burst into tears. A cold chill ran over me, and such a sensation
 I never experienced before, and I hope never to again. They took out a
 rope and tied me, and we were taken back about six miles, to the house
 of the individual who appeared to be the leader. We reached there about
-seven o’clock in the evening, had supper, and were separated for the
+seven o'clock in the evening, had supper, and were separated for the
 night. Two men remained in the room during the night. Before the family
 retired to rest, they were all called together to attend prayers. The
 man who but a few hours before had bound my hands together with a strong
@@ -1365,7 +1400,7 @@ act he had just committed upon a poor, panting, fugitive slave.
 The next morning a blacksmith came in, and put a pair of handcuffs on
 me, and we started on our journey back to the land of whips, chains and
 Bibles. Mother was not tied, but was closely watched at night. We were
-carried back in a wagon, and after four days’ travel, we came in sight
+carried back in a wagon, and after four days' travel, we came in sight
 of St. Louis. I cannot describe my feelings upon approaching the city.
 
 As we were crossing the ferry, Mr. Wiggins, the owner of the ferry, came
@@ -1446,7 +1481,7 @@ the day arrived when I was to see her for the first time after our
 painful separation, and, for aught that I knew, for the last time in
 this world!
 
-At about ten o’clock in the morning I went on board of the boat, and
+At about ten o'clock in the morning I went on board of the boat, and
 found her there in company with, fifty or sixty other slaves. She was
 chained to another woman. On seeing me, she immediately dropped her
 head upon her heaving bosom. She moved not, neither did she weep. Her
@@ -1456,45 +1491,45 @@ I thought myself to blame for her sad condition; for if I had not
 persuaded her to accompany me, she would not then have been in chains.
 
 She finally raised her head, looked me in the lace, (and such a look
-none but an angel can give!) and said, “_My dear son, you are not to
+none but an angel can give!) and said, "_My dear son, you are not to
 blame for my being here. You have done nothing more nor less than your
 duty. Do not, I pray you, weep for me. I cannot last long upon a cotton
 plantation. I feel that my heavenly Master will soon call me home, and
-then I shall be out of the hands of the slave-holders!_”
+then I shall be out of the hands of the slave-holders!_"
 
 I could bear no more--my heart struggled to free itself from the human
 form. In a moment she saw Mr. Mansfield coming toward that part of the
-boat, and she whispered into my ear, “_My child, we must soon part to
+boat, and she whispered into my ear, "_My child, we must soon part to
 meet no more this side of the grave. You have ever said that you would
 not die a slave; that you would be a freeman. Now try to get your
-liberty! You will soon have no one to look after but yourself!_” and
+liberty! You will soon have no one to look after but yourself!_" and
 just as she whispered the last sentence into my ear, Mansfield came up
-to me, and with an oath, said, “Leave here this instant; you have been
-the means of my losing one hundred dollars to get this wench back”--at
+to me, and with an oath, said, "Leave here this instant; you have been
+the means of my losing one hundred dollars to get this wench back"--at
 the same time kicking me with a heavy pair of boots. As I left her, she
-gave one shriek, saying, “God be with you!” It was the last time that I
+gave one shriek, saying, "God be with you!" It was the last time that I
 saw her, and the last word I heard her utter.
 
 I walked on shore. The bell was tolling. The boat was about to start.
 I stood with a heavy heart, waiting to see her leave the wharf. As I
 thought of my mother, I could but feel that I had lost
 
-                        “------the glory of my life,
+                        "------the glory of my life,
 
                         My blessing and my pride!
 
                         I half forgot the name of slave,
 
-                        When she was by my side.”
+                        When she was by my side."
 
 The love of liberty that had been burning in my bosom had well-nigh gone
 out. I felt as though I was ready to die. The boat moved gently from the
 wharf, and while she glided down the river, I realized that my mother
 was indeed
 
-                   “Gone--gone--sold and gone,
+                   "Gone--gone--sold and gone,
 
-                   To the rice swamp, dank and lone!”
+                   To the rice swamp, dank and lone!"
 
 After the boat was out of sight I returned home; but my thoughts were so
 absorbed in what I had witnessed, that I knew not what I was about half
@@ -1510,7 +1545,7 @@ person.
 The boat, on its second trip, brought down Mr. Walker, the man of whom I
 have spoken in a previous chapter, as hiring my time. He had between one
 and two hundred slaves, chained and manacled. Among them was a man that
-formerly belonged to my old master’s brother, Aaron Young. His name was
+formerly belonged to my old master's brother, Aaron Young. His name was
 Solomon. He was a preacher, and belonged to the same church with his
 master. I was glad to see the old man. He wept like a child when he told
 me how he had been sold from his wife and children.
@@ -1522,9 +1557,9 @@ I have mentioned that I was once in the employ of a slave-trader, or
 driver, as he is called at the south. For fear that some may think that
 I have misrepresented a slave-driver, I will here give an extract from
 a paper published in a slave-holding state, Tennessee called the
-“Millennial Trumpeter.”
+"Millennial Trumpeter."
 
-“Droves of negroes, chained together in dozens and scores, and
+"Droves of negroes, chained together in dozens and scores, and
 hand-cuffed, have been driven through our country in numbers far
 surpassing any previous year, and these vile slave-drivers and dealers
 are swarming like buzzards around a carrion. Through this county, you
@@ -1533,11 +1568,11 @@ of humanity insulted and lacerated by this spectacle, nor can you go
 into any county or any neighborhood, scarcely, without seeing or hearing
 of some of these despicable creatures, called negro-drivers.
 
-“Who is a negro-driver? One whose eyes dwell with delight on lacerated
+"Who is a negro-driver? One whose eyes dwell with delight on lacerated
 bodies of helpless men, women and children; whose soul feels diabolical
 raptures at the chains, and hand-cuffs, and cart-whips, for inflicting
 tortures on weeping mothers torn from helpless babes, and on husbands
-and wives torn asunder forever!”
+and wives torn asunder forever!"
 
 Dark and revolting as is the picture here drawn, it is from the pen of
 one living in the midst of slavery. But though these men may cant about
@@ -1555,17 +1590,17 @@ the church.
 It was not uncommon in St. Louis to pass by an auction-stand, and behold
 a woman upon the auction-block, and hear the seller crying out,
 
-“_How much is offered for this woman? She is a good cook, good washer, a
-good obedient servant. She has got religion!_” Why should this man tell
+"_How much is offered for this woman? She is a good cook, good washer, a
+good obedient servant. She has got religion!_" Why should this man tell
 the purchasers that she has religion? I answer, because in Missouri,
 and as far as I have any knowledge of slavery in the other states, the
 religious teaching consists in teaching the slave that he must never
 strike a white man; that God made him for a slave; and that, when
-whipped, he must not find fault--for the Bible says, “_He that knoweth
-his master’s will and doeth it not, shall be beaten with many stripes!_”
- And slaveholders find such religion very profitable to them.
+whipped, he must not find fault--for the Bible says, "_He that knoweth
+his master's will and doeth it not, shall be beaten with many stripes!_"
+And slaveholders find such religion very profitable to them.
 
-After leaving the steamer Otto, I resided at home, in Mr. Willi’s
+After leaving the steamer Otto, I resided at home, in Mr. Willi's
 family, and again began to lay my plans for making my escape from
 slavery. The anxiety to be a freeman would not let me rest day or night.
 I would think of the northern cities that I had heard so much about;--of
@@ -1573,13 +1608,13 @@ Canada, where so many of my acquaintances had found a refuge. I would
 dream at night that I was in Canada, a freeman, and on waking in the
 morning, weep to find myself so sadly mistaken.
 
-               “I would think of Victoria’s domain,
+               "I would think of Victoria's domain,
 
                    And in a moment I seemed to be there!
 
                But the fear of being taken again,
 
-                   Soon hurried me back to despair.”
+                   Soon hurried me back to despair."
 
 Mr. Willi treated me better than Dr. Young ever had; but instead of
 making me contented and happy, it only rendered me the more miserable,
@@ -1590,7 +1625,7 @@ owner and commission merchant, living in the city of St. Louis. Captain
 Price tendered seven hundred dollars, which was two hundred more than
 Mr. Willi had paid. He therefore thought best to accept the offer. I was
 wanted for a carriage driver, and Mrs. Price was very much pleased with
-the captain’s bargain. His family consisted of himself, wife, one child,
+the captain's bargain. His family consisted of himself, wife, one child,
 and three servants, besides myself,--one man and two women.
 
 Mrs. Price was very proud of her servants, always keeping them well
@@ -1619,7 +1654,7 @@ very often asked thus to sit down in the same room with the master or
 mistress. She said that she had found out that I did not care enough
 about Maria to marry her. I told her that was true. She then asked me
 if there was not a girl in the city that I loved. Well, now, this was
-coming into too close quarters with me! People, generally, don’t like
+coming into too close quarters with me! People, generally, don't like
 to tell their love stories to everybody that may think fit to ask about
 them, and it was so with me. But, after blushing a while and recovering
 myself, I told her that I did not want a wife. She then asked me if I
@@ -1656,12 +1691,12 @@ many women as he wishes and the women as many men; and the law takes
 no cognizance of such acts among slaves. And in fact some masters, when
 they have sold the husband from the wife, compel her to take another.
 
-There lived opposite Captain Price’s, Doctor Farrar, well known in St.
+There lived opposite Captain Price's, Doctor Farrar, well known in St.
 Louis. He sold a man named Ben, to one of the traders. He also owned
-Ben’s wife, and in a few days he compelled Sally (that was her name)
-to marry Peter, another man belonging to him. I asked Sally “why she
-married Peter so soon after Ben was sold.” She said, “because master
-made her do it.”
+Ben's wife, and in a few days he compelled Sally (that was her name)
+to marry Peter, another man belonging to him. I asked Sally "why she
+married Peter so soon after Ben was sold." She said, "because master
+made her do it."
 
 Mr. John Calvert, who resided near our place, had a woman named Lavinia.
 She was quite young, and a man to whom she was about to be married was
@@ -1675,7 +1710,7 @@ if she had.
 
 Captain Price purchased me in the month of October, and I remained with
 him until December, when the family made a voyage to New Orleans, in a
-boat owned by himself, and named the “Chester.” I served on board as
+boat owned by himself, and named the "Chester." I served on board as
 one of the stewards. On arriving at New Orleans, about the middle of the
 month, the boat took in freight for Cincinnati; and it was decided that
 the family should go up the river in her, and what was of more interest
@@ -1686,9 +1721,9 @@ at hand.
 
 Captain Price had some fears as to the propriety of taking me near a
 free state, or a place where it was likely I could run away, with a
-prospect of liberty. He asked me if I had ever been in a free state. “Oh
-yes,” said I, “I have been in Ohio; my master carried me into that state
-once, but I never liked a free state.”
+prospect of liberty. He asked me if I had ever been in a free state. "Oh
+yes," said I, "I have been in Ohio; my master carried me into that state
+once, but I never liked a free state."
 
 It was soon decided that it would be safe to take me with them, and what
 made it more safe, Eliza was on the boat with us, and Mrs. Price, to try
@@ -1700,7 +1735,7 @@ the desired effect. The boat left New Orleans, and proceeded up the
 river.
 
 I had at different times obtained little sums of money, which I had
-reserved for a “rainy day.” I procured some cotton cloth, and made me
+reserved for a "rainy day." I procured some cotton cloth, and made me
 a bag to carry provisions in. The trials of the past were all lost in
 hopes for the future. The love of liberty, that had been burning in
 my bosom for years, and had been well-nigh extinguished, was now
@@ -1720,13 +1755,13 @@ go to him in great numbers to get their fortunes told. And it was
 generally believed that he could really penetrate into the mysteries of
 futurity. Whether true or not, he had the _name_, and that is about half
 of what one needs in this gullible age. I found Uncle Frank seated in
-the chimney corner, about ten o’clock at night. As soon as I entered,
+the chimney corner, about ten o'clock at night. As soon as I entered,
 the old man left his seat. I watched his movement as well as I could by
 the dim light of the fire. He soon lit a lamp, and coming up, looked me
-full in the face, saying, “Well, my son, you have come to get uncle to
-tell your fortune, have you?”
+full in the face, saying, "Well, my son, you have come to get uncle to
+tell your fortune, have you?"
 
-“Yes,” said I. But how the old man should know what I came for, I could
+"Yes," said I. But how the old man should know what I came for, I could
 not tell. However, I paid the fee of twenty-five cents, and he commenced
 by looking into a gourd, filled with water. Whether the old man was a
 prophet, or the son of a prophet, I cannot say; but there is one thing
@@ -1743,7 +1778,7 @@ The first place in which we landed in a free state was Cairo, a small
 village at the mouth of the Ohio river. We remained here but a few
 hours, when we proceeded to Louisville. After unloading some of the
 cargo, the boat started on her upward trip. The next day was the first
-of January. I had looked forward to New Year’s day as the commencement
+of January. I had looked forward to New Year's day as the commencement
 of a new era in the history of my life. I had decided upon leaving the
 peculiar institution that day.
 
@@ -1785,7 +1820,7 @@ led me into the main travelled road. But I knew not which way to go. I
 did not know north from south, east from west. I looked in vain for the
 North Star; a heavy cloud hid it from my view. I walked up and down the
 road until near midnight, when the clouds disappeared, and I welcomed
-the sight of my friend--truly the slave’s friend--the North Star!
+the sight of my friend--truly the slave's friend--the North Star!
 
 As soon as I saw it, I knew my course, and before daylight I travelled
 twenty or twenty-five miles. It being in the winter, I suffered
@@ -1819,8 +1854,8 @@ most cruel acts that could be committed upon my rights; and I received
 several very severe whippings for telling people that my name was
 William, after orders were given to change it. Though young, I was
 old enough to place a high appreciation upon my name. It was decided,
-however, to call me “Sandford,” and this name I was known by, not only
-upon my master’s plantation, but up to the time that I made my escape. I
+however, to call me "Sandford," and this name I was known by, not only
+upon my master's plantation, but up to the time that I made my escape. I
 was sold under the name of Sandford.
 
 But as soon as the subject came to my mind, I resolved on adopting my
@@ -1830,7 +1865,7 @@ because it had been forced upon me. It is sometimes common, at the
 south, for slaves to take the name of their masters. Some have a
 legitimate right to do so. But I always detested the idea of being
 called by the name of either of my masters. And as for my father, I
-would rather have adopted the name of “Friday,” and been known as the
+would rather have adopted the name of "Friday," and been known as the
 servant of some Robinson Crusoe, than to have taken his name. So I was
 not only hunting for my liberty, but also hunting for a name; though I
 regarded the latter as of little consequence, if I could but gain the
@@ -1856,9 +1891,9 @@ of being caught, and again carried back into slavery. Nothing but the
 prospect of enjoying liberty could have induced me to undergo such
 trials, for
 
-                   “Behind I left the whips and chains,
+                   "Behind I left the whips and chains,
 
-                   Before me were sweet Freedom’s plains!”
+                   Before me were sweet Freedom's plains!"
 
 This, and this alone, cheered me onward. But I at last resolved to seek
 protection from the inclemency of the weather, and therefore I secured
@@ -1874,12 +1909,12 @@ I left my hiding-place, and was approaching the road, when I observed
 an old man walking towards me, leading a white horse. He had on a
 broad-brimmed hat and a very long coat, and was evidently walking for
 exercise. As soon as I saw him, and observed his dress, I thought
-to myself, “You are the man that have been looking for!” Nor was I
+to myself, "You are the man that have been looking for!" Nor was I
 mistaken. He was the very man!
 
-On approaching me, he asked me, “if I was not a slave.” I looked at him
-some time, and then asked him “if he knew of any one who would help me,
-as I was sick.” He answered that he would; but again asked, if I was not
+On approaching me, he asked me, "if I was not a slave." I looked at him
+some time, and then asked him "if he knew of any one who would help me,
+as I was sick." He answered that he would; but again asked, if I was not
 a slave. I told him I was. He then said that I was in a very pro-slavery
 neighborhood, and if I would wait until he went home, he would get a
 covered wagon for me. I promised to remain. He mounted his horse, and
@@ -1895,7 +1930,7 @@ man proved to be a Quaker of the George Fox stamp.
 
 He took me to his house, but it was some time before I could be induced
 to enter it; not until the old lady came out, did I venture into the
-house. I thought I saw something in the old lady’s cap that told me
+house. I thought I saw something in the old lady's cap that told me
 I was not only safe, but welcome, in her house. I was not, however,
 prepared to receive their hospitalities. The only fault I found with
 them was their being too kind. I had never had a white man to treat me
@@ -1904,9 +1939,9 @@ still worse! Though the table was loaded with the good things of
 this life, I could not eat. I thought if I could only be allowed the
 privilege of eating in the kitchen I should be more than satisfied!
 
-Finding that I could not eat, the old lady, who was a “Thompsonian,”
- made me a cup of “composition,” or “number six;” but it was so strong
-and hot, that I called it “_number seven!_” However, I soon found myself
+Finding that I could not eat, the old lady, who was a "Thompsonian,"
+made me a cup of "composition," or "number six;" but it was so strong
+and hot, that I called it "_number seven!_" However, I soon found myself
 at home in this family. On different occasions, when telling these
 facts, I have been asked how I felt upon finding myself regarded as
 a man by a white family; especially just having run away from one. I
@@ -1915,7 +1950,7 @@ cannot say that I have ever answered the question yet.
 The fact that I was in all probability a freeman, sounded in my ears
 like a charm. I am satisfied that none but a slave could place such an
 appreciation upon liberty as I did at that time. I wanted to see mother
-and sister, that I might tell them “I was free!” I wanted to see my
+and sister, that I might tell them "I was free!" I wanted to see my
 fellow-slaves in St. Louis, and let them know that the chains were no
 longer upon my limbs. I wanted to see Captain Price, and let him learn
 from my own lips that I was no more a chattel, but a man! I was anxious,
@@ -1948,23 +1983,23 @@ Monument, writing this narrative, I am a slave, and no law, not even in
 Massachusetts, can protect me from the hands of the slaveholder!
 
 Before leaving this good Quaker friend, he inquired what my name was
-besides William. I told him that I had no other name. “Well,” said he,
-“thee must have another name. Since thee has got out of slavery, thee
-has become a man, and men always have two names.”
+besides William. I told him that I had no other name. "Well," said he,
+"thee must have another name. Since thee has got out of slavery, thee
+has become a man, and men always have two names."
 
 I told him that he was the first man to extend the hand of friendship to
 me, and I would give him the privilege of naming me.
 
-“If I name thee,” said he, “I shall call thee Wells Brown, after
-myself,”
+"If I name thee," said he, "I shall call thee Wells Brown, after
+myself,"
 
-“But,” said I, “I am not willing to lose my name of William. As it was
+"But," said I, "I am not willing to lose my name of William. As it was
 taken from me once against my will, I am not willing to part with it
 again upon any terms.
 
-“Then,” said he, “I will call thee William Wells Brown.”
+"Then," said he, "I will call thee William Wells Brown."
 
-“So be it,” said I; and I have been known by that name ever since I left
+"So be it," said I; and I have been known by that name ever since I left
 the house of my first white friend, Wells Brown.
 
 After giving me some little change, I again started for Canada. In
@@ -1988,8 +2023,8 @@ and where I was going. I replied that I had come some way, and was going
 to Cleaveland.
 
 After hesitating a moment or two, he told me that he could give me
-nothing to eat, adding, “that if I would work, I could get something to
-eat.”
+nothing to eat, adding, "that if I would work, I could get something to
+eat."
 
 I felt bad, being thus refused something to sustain nature, but did not
 dare tell him that I was a slave.
@@ -2007,7 +2042,7 @@ unwilling to let me enter.
 She asked him two or three times to get out of the way, and let me in.
 But as he did not move, she pushed him on one side, bidding me walk in!
 I was never before so glad to see a woman push a man aside! Ever since
-that act, I have been in favor of “woman’s rights!”
+that act, I have been in favor of "woman's rights!"
 
 After giving me as much food as I could eat, she presented me with ten
 cents, all the money then at her disposal, accompanied with a note to
@@ -2026,17 +2061,17 @@ until spring, when I found good employment on board a lake steamboat.
 
 I purchased some books, and at leisure moments perused them with
 considerable advantage to my-self. While at Cleaveland, I saw, for the
-first time, an anti-slavery newspaper. It was the “_Genius of Universal
-Emancipation_,” published by Benjamin Lundy; and though I had no home,
+first time, an anti-slavery newspaper. It was the "_Genius of Universal
+Emancipation_," published by Benjamin Lundy; and though I had no home,
 I subscribed for the paper. It was my great desire, being out of slavery
 myself, to do what I could for the emancipation of my brethren yet in
-chains, and while on Lake Erie, I found many opportunities of “helping
-their cause along.”
+chains, and while on Lake Erie, I found many opportunities of "helping
+their cause along."
 
 It is well known that a great number of fugitives make their escape
 to Canada, by way of Cleaveland; and while on the lakes, I always made
 arrangement to carry them on the boat to Buffalo or Detroit, and thus
-effect their escape to the “promised land.” The friends of the slave,
+effect their escape to the "promised land." The friends of the slave,
 knowing that I would transport them without charge, never failed to have
 a delegation when the boat arrived at Cleaveland. I have sometimes had
 four or five on board at one time.
@@ -2073,13 +2108,13 @@ During the autumn of 1836, a slaveholder by the name of Bacon Tate,
 from the State of Tennessee, came to the north in search of fugitives
 from slavery. On his arrival at Buffalo he heard of two of the most
 valuable of the slaves that he was in pursuit of. They were residing in
-St. Catharine’s, in Upper Canada, some twenty-five miles from Buffalo.
+St. Catharine's, in Upper Canada, some twenty-five miles from Buffalo.
 After hearing that they were in Canada, one would have supposed that
 Tate would have given up all hope of getting them. But not so. Bacon
 Tate was a man who had long been engaged in the slave-trade, and
 previous to that had been employed as a negro-driver. In these
 two situations he had gained the name of being the most complete
-“negro-breaker” in that part of Tennessee where he resided. He was as
+"negro-breaker" in that part of Tennessee where he resided. He was as
 unfeeling and as devoid of principle as a man could possibly be. This
 made him the person, above all others, to be selected to be put on the
 track of the fugitive slave. He had not only been commissioned to catch
@@ -2099,33 +2134,33 @@ best house at that time in the city. And here he began to lay his
 plans to catch and carry back into slavery those men and women who had
 undergone so much to get their freedom. He soon became acquainted with a
 profligate colored woman, who was a servant in the hotel, and who was as
-unprincipled as himself! This woman was sent to St. Catharine’s, to spy
-out the situation of Stanford’s family. Under the pretence of wishing to
-get board in the family, and at the same time offering to pay a week’s
+unprincipled as himself! This woman was sent to St. Catharine's, to spy
+out the situation of Stanford's family. Under the pretence of wishing to
+get board in the family, and at the same time offering to pay a week's
 board in advance, she was taken in. After remaining with them three or
 four days, the spy returned to Buffalo, and informed Tate how they were
 situated. By the liberal use of money, Tate soon found those who were
 willing to do his bidding. A carriage was hired, and four men employed
-to go with it to St. Catharine’s, and to secure their victims during the
+to go with it to St. Catharine's, and to secure their victims during the
 night.
 
 The carriage, with the kidnappers, crossed the Niagara river at Black
-Rock, on Saturday evening, about seven o’clock, and went on its way
-towards St. Catharine’s; no one suspecting in the least that they were
-after fugitive slaves. About twelve o’clock that night they attacked
-Stanford’s dwelling by breaking in the door. They found the family
+Rock, on Saturday evening, about seven o'clock, and went on its way
+towards St. Catharine's; no one suspecting in the least that they were
+after fugitive slaves. About twelve o'clock that night they attacked
+Stanford's dwelling by breaking in the door. They found the family
 asleep, and of course met with no obstacle whatever in tying, gagging,
 and forcing them into the carriage.
 
 The family had one child about six weeks old That was kept at its
-mother’s breast, to keep it quiet. The carriage re-crossed the river, at
+mother's breast, to keep it quiet. The carriage re-crossed the river, at
 the same place, the next morning at sunrise, and proceeded to Buffalo,
 where it remained a short time, and after changing horses and leaving
 some of its company, it proceeded on its journey. The carriage being
 closely covered, no one had made the least discovery as to its contents.
 But some time during the morning, a man, who was neighbor to Stanford,
 and who resided but a short distance from him, came on an errand; and
-finding the house deserted, and seeing the most of the family’s clothes
+finding the house deserted, and seeing the most of the family's clothes
 lying on the floor, and seeing here and there stains of blood, soon gave
 the alarm, and the neighbors started in every direction, to see if they
 could find the kidnappers. One man got on the track of the carriage,
@@ -2163,21 +2198,21 @@ One of our company demanded the opening of the door, while others went
 out and surrounded the house. The kidnappers stationed one of their
 number at the door, and another at the window. They refused to let us
 enter the room, and the tavern-keeper, who was more favorable to us than
-we had anticipated, said to us, “Boys, get into the room in any way
+we had anticipated, said to us, "Boys, get into the room in any way
 that you can; the house is mine, and I give you the liberty to break in
-through the door or window.” This was all that we wanted, and we were
+through the door or window." This was all that we wanted, and we were
 soon making preparations to enter the room at all hazards. Those within
-had warned us that if we should attempt to enter they would “shoot the
-first one.” One of our company, who had obtained a crow-bar, went to the
+had warned us that if we should attempt to enter they would "shoot the
+first one." One of our company, who had obtained a crow-bar, went to the
 window, and succeeded in getting it under the sash, and soon we had
 the window up, and the kidnappers, together with their victims, in full
 view.
 
 One of the kidnappers, while we were raising the window, kept crying
-at the top of his voice, “I’ll shoot, I’ll shoot!” but no one seemed
+at the top of his voice, "I'll shoot, I'll shoot!" but no one seemed
 to mind him. As soon as they saw that we were determined to rescue the
 slaves at all hazards, they gave up, one of their number telling us that
-we might “come in.”
+we might "come in."
 
 The door was thrown open, and we entered, and there found Stanford
 seated in one corner of the room, with his hands tied behind him, and
@@ -2191,7 +2226,7 @@ lighted up the moment we entered the room.
 The most of those who made up our company were persons who had made
 their escape from slavery, and who knew its horrors from personal
 experience, and who had left near and dear relatives behind them. And we
-knew how to “feel for those in bonds as bound with them.”
+knew how to "feel for those in bonds as bound with them."
 
 The woman who had betrayed them, and who was in the house at the
 time they were taken, had been persuaded by Tate to go on with him to
@@ -2200,15 +2235,15 @@ same room with Stanford and his wife. As soon as she found that we were
 about to enter the room, she ran under the bed.
 
 We knew nothing of her being in the room until Stanford pointed to the
-bed and said, “Under there is our betrayer.” She was soon hauled out,
+bed and said, "Under there is our betrayer." She was soon hauled out,
 and it was as much as some of us could do to keep the others from
 lynching her upon the spot. The curses came thick and fast from a
 majority of the company. But nothing attracted my attention at the time
 more than the look of Mrs. Stanford at the betrayer, as she sat before
 her. She did not say a word to her, but her countenance told the
 feelings of her inmost soul, and we could but think, that had she spoken
-to her, she would have said, “May the world deny thee a shelter! earth a
-home! the dust a grave! the sun his light! and Heaven her God!”
+to her, she would have said, "May the world deny thee a shelter! earth a
+home! the dust a grave! the sun his light! and Heaven her God!"
 
 The betrayer begged us to let her go. I was somewhat disposed to comply
 with her request, but I found many to oppose me; in fact, I was entirely
@@ -2221,7 +2256,7 @@ their own hands.
 
 However, the woman was not allowed to escape, but was put into the
 coach, together with Stanford and his wife; and after an hour and a
-half’s drive, we found ourselves in the city of Buffalo. The excitement
+half's drive, we found ourselves in the city of Buffalo. The excitement
 which the alarm had created in the morning had broken up the meetings of
 the colored people for that day; and on our arrival in the city we were
 met by some forty or fifty colored persons. The kidnappers had not been
@@ -2241,7 +2276,7 @@ when we should attempt to take them to the ferry to convey them to
 Canada. This news was anything but pleasant to us, but we prepared for
 the worst.
 
-We returned to the city about two o’clock in the afternoon, and about
+We returned to the city about two o'clock in the afternoon, and about
 four we started for Black Rock ferry, which is about three miles below
 Buffalo. We had in our company some fifty or more able-bodied, resolute
 men, who were determined to stand by the slaves, and who had resolved,
@@ -2252,8 +2287,8 @@ We started, and when about a mile below the city, the sheriff and his
 men came upon us, and surrounded us. The slaves were in a carriage, and
 the horses were soon stopped, and we found it advisable to take them
 out of the carriage, and we did so. The sheriff came forward, and read
-something purporting to be a “Riot Act,” and at the same time called
-upon all good citizens to aid him in keeping the “peace.” This was a
+something purporting to be a "Riot Act," and at the same time called
+upon all good citizens to aid him in keeping the "peace." This was a
 trick of his, to get possession of the slaves. His men rushed upon us
 with their clubs and stones, and a general fight ensued. Our company had
 surrounded the slaves, and had succeeded in keeping the sheriff and his
@@ -2266,23 +2301,23 @@ proved himself a _pepper_ to the sheriff and his posse that day. He was
 a lawyer; and as the officers would arrest any of our company, he would
 step up and ask the officer if he had a warrant to take that man and as
 none of them had warrants, and could not answer affirmatively, he would
-say to the colored man, “He has no right to take you; knock him down.”
- The command was no sooner given than the man would fall. If the one who
+say to the colored man, "He has no right to take you; knock him down."
+The command was no sooner given than the man would fall. If the one who
 had been arrested was not able to knock him down, some who were close
 by, and who were armed with a club or other weapon, would come to his
 assistance.
 
-After it became generally known in our company that the “little man” was
+After it became generally known in our company that the "little man" was
 a lawyer, he had a tremendous influence with them. You could hear them
-cry out occasionally, “That’s right, knock him down; the little man told
-you to do it, and he is a lawyer; he knows all about the law; that’s
+cry out occasionally, "That's right, knock him down; the little man told
+you to do it, and he is a lawyer; he knows all about the law; that's
 right,--hit him again! he is a white man, and he has done our color
-enough.”
+enough."
 
 Such is but a poor representation of what was said by those who were
 engaged in the fight. After a hard-fought battle; of nearly two hours,
 we arrived at the ferry, the slaves still in our possession. On arriving
-at the ferry, we found that some of the sheriff’s gang had taken
+at the ferry, we found that some of the sheriff's gang had taken
 possession of the ferry-boat. Here another battle was to be fought,
 before the slaves could reach Canada. The boat was fastened at each end
 by a chain, and in the scuffle for the ascendency, one party took charge
@@ -2296,14 +2331,14 @@ the shouts of the blacks, and the oaths and imprecations of the
 whites. We on shore swung our hats and gave three cheers, just as a
 reinforcement came to the whites. Seeing the odds entirely against us
 in numbers, and having gained the great victory, we gave up without
-resistance, and suffered ourselves to be arrested by the sheriff’s
+resistance, and suffered ourselves to be arrested by the sheriff's
 posse. However, we all remained on the shore until the ferry-boat had
 landed on the Canada side. As the boat landed, Stanford leaped on shore,
 and rolled over in the sand, and even rubbed it into his hair.
 
 I did not accompany the boat over, but those who did informed us that
 Mrs. Stanford, as she stepped on the shore, with her child in her arms,
-exclaimed, “I thank God that I am again in Canada!” We returned to the
+exclaimed, "I thank God that I am again in Canada!" We returned to the
 city, and some forty of our company were lodged in jail, to await their
 trial the next morning.
 
@@ -2342,7 +2377,7 @@ reprimanding her, let her go.
 
 Tate, in the mean time, hearing that the colored people had resolved to
 take vengeance on him, thought it best to leave the city. On Monday, at
-ten o’clock, we were all carried before Justice Grosvenor; and of the
+ten o'clock, we were all carried before Justice Grosvenor; and of the
 forty who had been committed the evening before, twenty-five were held
 to bail to answer to a higher court. When the trials came on, we were
 fined more or less, from five to fifty dollars each.
@@ -2412,10 +2447,10 @@ and soon several hundred dollars were bid. My eyes were intensely
 fixed on the face of the woman, whose cheeks were wet with tears. But
 a conversation between the slave and his new master attracted my
 attention. I drew near them to listen. The slave was begging his new
-master to purchase his wife. Said he, “Master, if you will only buy
+master to purchase his wife. Said he, "Master, if you will only buy
 Fanny, I know you will get the worth of your money. She is a good cook,
 a good washer, and her last mistress liked her very much. If you will
-only buy her how happy I shall be.” The new master replied that he did
+only buy her how happy I shall be." The new master replied that he did
 not want her but if she sold cheap he would purchase her. He watched the
 countenance of the man while the different persons were bidding on his
 wife. When his new master bid on his wife you could see the smile upon
@@ -2427,11 +2462,11 @@ soul. But this suspense did not last long; the wife was struck off to
 the highest bidder, who proved not to be the owner of her husband. As
 soon as they became aware that they were to be separated, they both
 burst into tears; and as she descended from the auction-stand, the
-husband, walking up to her and taking her by the hand, said, “Well,
+husband, walking up to her and taking her by the hand, said, "Well,
 Fanny, we are to part forever, on earth; you have been a good wife to
 me. I did all that I could to get my new master to buy you; but he did
 not want you, and all I have to say is, I hope you will try to meet me
-in heaven. I shall try to meet you there.” The wife made no reply,
+in heaven. I shall try to meet you there." The wife made no reply,
 but her sobs and cries told, too well, her own feelings. I saw the
 countenances of a number of whites who were present, and whose eyes were
 dim with tears at hearing the man bid his wife farewell.
@@ -2441,7 +2476,7 @@ auction-stands, bones, muscles, sinews, blood and nerves, of human
 beings, are sold with as much indifference as a farmer in the north
 sells a horse or sheep. And this great American nation is, at the
 present time, engaged in the slave-trade. I have before me now the
-Washington “_Union_,” the organ of the government, in which I find
+Washington "_Union_," the organ of the government, in which I find
 an advertisement of several slaves to be sold for the benefit of the
 government. They will, in all human probability, find homes among the
 rice-swamps of Georgia, or the cane-brakes of Mississippi.
@@ -2452,11 +2487,11 @@ sufficient to show, if not the full amount of the evil, at least that it
 is one of prodigious magnitude. And what is more to be wondered at, is
 the fact that the greatest slave-market is to be found at the capital of
 the country! The American slave-trader marches by the capitol with his
-“coffle-gang,”--the stars and stripes waving over their heads, and the
+"coffle-gang,"--the stars and stripes waving over their heads, and the
 constitution of the United States in his pocket!
 
 The Alexandria Gazette, speaking of the slave-trade at the capital,
-says, “Here you may behold fathers and brothers leaving behind them the
+says, "Here you may behold fathers and brothers leaving behind them the
 dearest objects of affection, and moving slowly along in the mute agony
 of despair; there, the young mother, sobbing over the infant whose
 innocent smile seems but to increase her misery. From some you will hear
@@ -2478,4 +2513,363 @@ Christianity, and should be immediately abandoned.
 End of the Project Gutenberg EBook of Illustrated Edition of the Life and
 Escape of Wm. Wells Brown from American Slavery, by William Wells Brown
 
-*** END OF THE PROJECT GUTENBERG EBOOK 50092 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK LIFE AND ESCAPE ***
+
+***** This file should be named 50092.txt or 50092.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/0/0/9/50092/
+
+Produced by David Widger from page images generously
+provided by the Internet Archive
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
